@@ -20,7 +20,7 @@
     "name": "FXFunds",
     "url": "https://fxfunds.com/"
   },
-  "identifier": "https://doi.org/10.5281/zenodo.XXXXXXX",
+    "identifier": "https://doi.org/10.5281/zenodo.23424646",
   "sameAs": [
     "https://fxfunds.com/",
     "https://github.com/FXFunds/fxfunds-blockchain-technology",
@@ -29,7 +29,7 @@
     "https://pypi.org/project/fxfunds-blockchain-technology/",
     "https://huggingface.co/datasets/fxfunds/blockchain-technology-benchmarks",
     "https://www.kaggle.com/datasets/fxfunds/blockchain-technology-benchmarks",
-    "https://zenodo.org/records/XXXXXXX",
+    "https://zenodo.org/records/23424646",
     "https://fxfunds-blockchain-technology.readthedocs.io",
     "https://fxfunds.quora.com/",
     "https://www.pinterest.com/fxfunds_1/",
