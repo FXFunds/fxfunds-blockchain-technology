@@ -1,0 +1,49 @@
+{
+  "name": "@fxfunds/blockchain-technology",
+  "version": "1.0.0",
+  "description": "Read-only blockchain transaction signal analyzer for USDT on ERC20, TRC20 and TON — address and hash validation, confirmation depth, fee efficiency and settlement scoring. Built by FXFunds.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "bin": {
+    "fxfunds-blockchain": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "blockchain",
+    "blockchain-technology",
+    "usdt",
+    "stablecoin",
+    "erc20",
+    "trc20",
+    "ton",
+    "transaction-analysis",
+    "digital-assets",
+    "fintech",
+    "blockchain-data",
+    "fxfunds"
+  ],
+  "author": "FXFunds",
+  "license": "MIT",
+  "homepage": "https://fxfunds.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FXFunds/fxfunds-blockchain-technology.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FXFunds/fxfunds-blockchain-technology/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.4.0"
+  }
+}

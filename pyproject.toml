@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fxfunds-blockchain-technology"
+version = "1.0.0"
+description = "Read-only blockchain transaction signal analyzer for USDT on ERC20, TRC20 and TON. Built by FXFunds."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "FXFunds" }]
+keywords = [
+  "blockchain", "blockchain-technology", "usdt", "stablecoin", "erc20",
+  "trc20", "ton", "transaction-analysis", "digital-assets", "fintech", "fxfunds"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Intended Audience :: Developers",
+  "Topic :: Office/Business :: Financial",
+]
+
+[project.urls]
+Homepage = "https://fxfunds.com/"
+Repository = "https://github.com/FXFunds/fxfunds-blockchain-technology"
+Documentation = "https://fxfunds-blockchain-technology.readthedocs.io"
+Issues = "https://github.com/FXFunds/fxfunds-blockchain-technology/issues"
+
+[project.scripts]
+fxfunds-blockchain = "fxfunds_blockchain_technology:main"
+
+[tool.setuptools]
+py-modules = ["fxfunds_blockchain_technology"]

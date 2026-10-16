@@ -1,0 +1,57 @@
+{
+  "title": "FXFunds Blockchain Technology",
+  "description": "A read-only blockchain transaction signal analyzer for stablecoin transfers (USDT on ERC20, TRC20 and TON). It validates addresses and transaction hashes and scores confirmation depth, fee efficiency, settlement speed and data completeness. Built by FXFunds.",
+  "creators": [
+    {
+      "name": "FXFunds"
+    }
+  ],
+  "keywords": [
+    "blockchain technology",
+    "blockchain data processing",
+    "USDT",
+    "stablecoin transactions",
+    "ERC20",
+    "TRC20",
+    "TON",
+    "transaction analysis",
+    "digital assets",
+    "FXFunds"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/FXFunds/fxfunds-blockchain-technology",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://fxfunds.com/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/@fxfunds/blockchain-technology",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/fxfunds-blockchain-technology/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/fxfunds/blockchain-technology-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/fxfunds/blockchain-technology-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
