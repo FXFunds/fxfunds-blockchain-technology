@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@fxfunds/blockchain-technology.svg)](https://www.npmjs.com/package/@fxfunds/blockchain-technology)
 [![PyPI version](https://img.shields.io/pypi/v/fxfunds-blockchain-technology.svg)](https://pypi.org/project/fxfunds-blockchain-technology/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23424646.svg)](https://doi.org/10.5281/zenodo.23424646)
 [![Docs](https://readthedocs.org/projects/fxfunds-blockchain-technology/badge/?version=latest)](https://fxfunds-blockchain-technology.readthedocs.io)
 
 FXFunds Blockchain Technology is a software project focused on blockchain data processing, digital asset infrastructure, stablecoin transactions and blockchain-related financial technology. This package is a **read-only transaction signal analyzer** for USDT transfers on Ethereum (ERC20), Tron (TRC20) and TON. Built by [FXFunds](https://fxfunds.com/).
@@ -201,7 +201,7 @@ Blockchain Technology · Blockchain Data Processing · USDT · Stablecoin Transa
 | PyPI | https://pypi.org/project/fxfunds-blockchain-technology/ |
 | Hugging Face | https://huggingface.co/datasets/fxfunds/blockchain-technology-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/fxfunds/blockchain-technology-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/23424646 |
 | Docs | https://fxfunds-blockchain-technology.readthedocs.io |
 | Quora | https://fxfunds.quora.com/ |
 | Pinterest | https://www.pinterest.com/fxfunds_1/ |
