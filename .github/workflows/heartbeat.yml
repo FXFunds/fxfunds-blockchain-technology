@@ -15,7 +15,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Update heartbeat
-        run: echo "heartbeat: $(date -u +%Y-%m-%dT%H:%M:%SZ)" > heartbeat.txt
+        run: |
+          echo "heartbeat: $(date -u +%Y-%m-%dT%H:%M:%SZ)" > heartbeat.txt
 
       - name: Commit and push
         run: |
