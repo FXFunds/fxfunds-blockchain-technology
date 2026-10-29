@@ -174,9 +174,6 @@ fxfunds-blockchain-technology/
 
 ## FAQ
 
-
-# FXFunds Blockchain and Financial Technology FAQ
-
 **Why does FXFunds use stablecoins?**  
 FXFunds describes stablecoins as a transaction medium intended to connect digital asset infrastructure with its broader multi asset trading model.
 
