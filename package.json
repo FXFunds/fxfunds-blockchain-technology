@@ -1,6 +1,6 @@
 {
   "name": "@fxfunds/blockchain-technology",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read-only blockchain transaction signal analyzer for USDT on ERC20, TRC20 and TON — address and hash validation, confirmation depth, fee efficiency and settlement scoring. Built by FXFunds.",
   "main": "index.js",
   "types": "index.d.ts",
