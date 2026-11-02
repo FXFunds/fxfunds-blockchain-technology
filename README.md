@@ -161,9 +161,6 @@ fxfunds-blockchain-technology/
 └── LICENSE
 ```
 
-## Dataset
-
-`dataset/blockchain_transaction_benchmarks.csv` holds 20 **synthetic sample records** across ERC20, TRC20 and TON with their computed signal scores. It is for testing and demonstration only and does not contain real on-chain transactions.
 
 ## Security and Data Handling
 
